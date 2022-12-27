@@ -8,4 +8,8 @@ public class ContactPage {
 
     //instagram
 
+    //youtube
+
+    //e-mail
+
 }
